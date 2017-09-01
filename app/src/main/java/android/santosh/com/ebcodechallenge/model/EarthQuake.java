@@ -30,6 +30,10 @@ public class EarthQuake {
         return longitude;
     }
 
+    public float getMagnitude() {
+        return magnitude;
+    }
+
     public List<Address> getAddresses() {
         return addresses;
     }
