@@ -1,5 +1,6 @@
-package android.santosh.com.ebcodechallenge;
+package android.santosh.com.ebcodechallenge.activity;
 
+import android.santosh.com.ebcodechallenge.R;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
